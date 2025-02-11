@@ -89,8 +89,7 @@ Currently these vocabularies are supported with metadata:
 - [rdfa](http://www.w3.org/ns/rdfa#) RDFa Vocabulary for Term and Prefix Assignment, and for Processor Graph Reporting
 - [rdfs](http://www.w3.org/2000/01/rdf-schema#) The RDF Schema vocabulary (RDFS)
 - [rev](http://purl.org/stuff/rev#) RDF Review Vocabulary
-- [rico](https://www.ica.org/standards/RiC/ontology#) International Council on Archives Records in Contexts Ontology
-            (ICA RiC-O) version 0.2
+- [rico](https://www.ica.org/standards/RiC/ontology#) International Council on Archives Records in Contexts Ontology (ICA RiC-O) version 1.0.2
 - [rr](http://www.w3.org/ns/r2rml#) R2RML vocabulary
 - [rss](http://purl.org/rss/1.0/) RDF Site Summary (RSS)
 - [schema](http://schema.org/) Schema.org

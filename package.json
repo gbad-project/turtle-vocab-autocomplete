@@ -1,18 +1,13 @@
 {
-  "name": "turtle-vocab-autocomplete",
-  "displayName": "Turtle vocabulary autocompleter.",
-  "description": "Autocomplete prefixes and RDF Classes and Properties from some well known vocabularies",
-  "version": "1.0.3",
-  "author": {
-    "name": "Mark Lindeman",
-    "email": "mark.lindeman@triply.cc"
-  },
-  "icon": "static/icon.png",
+  "name": "turtle-vocab-autocomplete-gbad-edition",
+  "displayName": "GBAD project’s Turtle vocabulary autocompleter.",
+  "description": "Autocomplete prefixes and RDF Classes and Properties from some well known vocabularies. This is a version modified by the GBAD project for our needs as allowed by EUPL-1.2. The original author is Mark Lindeman.",
+  "version": "1.0.3-gbad.1",
   "license": "EUPL-1.2",
-  "publisher": "MarkLindeman",
+  "publisher": "gbad-project",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mightymax/turtle-vocab-autocomplete"
+    "url": "https://github.com/gbad-project/turtle-vocab-autocomplete"
   },
   "engines": {
     "vscode": "^1.80.0"
